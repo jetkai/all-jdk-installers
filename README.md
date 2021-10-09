@@ -254,6 +254,21 @@ Mac OSX\
 
 Linux 64\
 [[MIRROR 1](https://mega.nz/file/a88TyaIQ#EXcTSaGRhwoE4ZLF12kHPPpwITe2toha-X2Aheq6hgQ) | [MIRROR 2](https://rsps.tools/archive/JDK%2016/linux-64/jdk-16.0.1_linux-x64_bin.tar.gz)]
+## JDK 17 (Major Class Version 61)
+
+
+
+[Oracle Checksum - N/A]
+
+Windows 64\
+[[MIRROR 1](https://mega.nz/file/HxsyFRDJ#uGsYCRUw6-ko-pxJuWphMG5KwnRxGyjS41R6-qJ59FE) | [MIRROR 2](https://rsps.tools/archive/JDK%2017/windows-64/jdk-17_windows-x64_bin.exe)]
+
+Mac OSX\
+[[MIRROR 1](https://mega.nz/file/OhtWRTRa#B4pCENAwWQQTTQujL5e2_7v2dRxkZ3z-S1GZs45BtlQ) | [MIRROR 2](https://rsps.tools/archive/JDK%2017/mac-osx/jdk-17_macos-x64_bin.dmg)]
+
+Linux 64\
+[[MIRROR 1](https://mega.nz/file/3gsAlBpK#1kNV19B17V5TGLl5xDbytEfnxcNHLSd7GtqaT3eiSPM) | [MIRROR 2](https://rsps.tools/archive/JDK%2017/linux-64/jdk-17_linux-x64_bin.tar.gz)]
+
 
 ## JRE 8 (Major Class Version 52)
 
